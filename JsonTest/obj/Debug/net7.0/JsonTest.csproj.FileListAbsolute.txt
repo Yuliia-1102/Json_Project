@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Json_Test/JsonTest/bin/Debug/net7.0/JsonTest
+/Users/macbook/Projects/Json_Test/JsonTest/bin/Debug/net7.0/JsonTest.deps.json
+/Users/macbook/Projects/Json_Test/JsonTest/bin/Debug/net7.0/JsonTest.runtimeconfig.json
+/Users/macbook/Projects/Json_Test/JsonTest/bin/Debug/net7.0/JsonTest.dll
+/Users/macbook/Projects/Json_Test/JsonTest/bin/Debug/net7.0/JsonTest.pdb
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.AssemblyInfo.cs
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.dll
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/refint/JsonTest.dll
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.pdb
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/JsonTest.genruntimeconfig.cache
+/Users/macbook/Projects/Json_Test/JsonTest/obj/Debug/net7.0/ref/JsonTest.dll
